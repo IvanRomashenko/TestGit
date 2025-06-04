@@ -8,6 +8,9 @@ public class TestGitMasterApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(TestGitMasterApplication.class, args);
+
+
+        System.out.println("Hello world!!!");
     }
 
 }
